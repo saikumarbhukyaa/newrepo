@@ -24,7 +24,7 @@ main > h1 {
   text-align:center;
 }
 .bg-image{
-  background-image:linear-gradiant(to bottom,#fc14e5,#7b96ed,#0e2161);
+  background-image:linear-gradiant(to top,#fc14e5,#0e2161);
   background-size:cover;
   height:100vh;
 }
