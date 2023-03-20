@@ -26,7 +26,6 @@ main > h1 {
 .bg-image{
   background-image:linear-gradiant(to bottom,#fc14e5,#7b96ed,#0e2161);
   background-size:cover;
-  width:100vw;
   height:100vh;
 }
 .center{
