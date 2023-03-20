@@ -26,8 +26,15 @@ main > h1 {
 .bg-image{
   background-image:url('https://img.freepik.com/free-vector/teamwork-concept-landing-page_52683-20165.jpg?size=338&ext=jpg&ga=GA1.2.598491857.1679294919&semt=sph');
   background-size:cover;
+
   height:100vh;
 }
 .center{
   text-align:center;
+}
+p{
+  font-size:28px;
+}
+h1{
+  font-size:35px;
 }
