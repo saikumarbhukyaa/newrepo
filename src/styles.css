@@ -23,3 +23,6 @@ main > h1 {
   color:#71eb34;
   text-align:center;
 }
+.bg-image{
+  background-image:url('https://images.unsplash.com/photo-1499540633125-484965b60031?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHRlYW18ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60');
+}
